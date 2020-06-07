@@ -7,4 +7,5 @@
 本仓库为自己实现部分以及笔记总结
 
 
-第三章：[笔记](http://www.sniper97.cn/index.php/note/deep-learning/3522/)
+第三章：[线性回归笔记](http://www.sniper97.cn/index.php/note/deep-learning/3522/)
+、[softmax回归笔记](http://www.sniper97.cn/index.php/note/deep-learning/3529/)
