@@ -10,4 +10,4 @@
 第三章：[线性回归笔记](http://www.sniper97.cn/index.php/note/deep-learning/3522/)
 、[softmax回归笔记](http://www.sniper97.cn/index.php/note/deep-learning/3529/)
 
-第五章：[LeNet](http://www.sniper97.cn/index.php/note/deep-learning/3534/)
+第五章：[LeNet、AlexNet、VGG（block）](http://www.sniper97.cn/index.php/note/deep-learning/3534/)
